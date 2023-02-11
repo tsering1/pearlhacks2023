@@ -7,4 +7,4 @@ frog.onclick = function(){
 	} else {
 		frog.innerHTML = frog.innerHTML + frog_emoji
 	}
-}
+}  
